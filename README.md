@@ -1,6 +1,7 @@
- 👋
+ 
 
-Merhaba ben Fidan
+Hello 👋 I am Fidan.I study Mechatronics Engineering at İstanbul Gelişim University.
+
 
 <!--
 **Fidanbozaner/Fidanbozaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
