@@ -1,6 +1,17 @@
  
+Hello 👋
+I am a Mechatronics Engineer student at İstanbul Gelisim University
+I completed an internship in the R&D (Research and Development) department at Alpplast.
+I create designs using SolidWorks and have a strong interest in learning and improving my skills.
+I have strong analytical thinking and problem-solving skills.
+I am a motivated engineering student with a collaborative mindset.
 
-Hello 👋 I am Fidan.I study Mechatronics Engineering at İstanbul Gelişim University.
+Merhaba👋
+İstanbul Gelişim Üniversitesi Mekatronik Mühendisliği öğrencisiyim.
+Alpplast firmasında Ar-Ge (Araştırma ve Geliştirme) departmanında staj yaptım.
+SolidWorks üzerinde çizim yapıyorum ve yeni şeyler öğrenmeye, gelişmeye ilgi duyuyorum.
+Analitik düşünme ve problem çözme becerilerine sahibim.
+Takım çalışmasına uyumlu ve öğrenmeye açık bir mühendis adayıyım.
 
 
 <!--
