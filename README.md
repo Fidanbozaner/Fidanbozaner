@@ -1,6 +1,7 @@
  
 Hello 👋
-I am a Mechatronics Engineer student at İstanbul Gelisim University
+I am a Mechatronics Engineer student at İstanbul Gelisim University    
+
 I completed an internship in the R&D (Research and Development) department at Alpplast.
 I create designs using SolidWorks and have a strong interest in learning and improving my skills.
 I have strong analytical thinking and problem-solving skills.
