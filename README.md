@@ -16,6 +16,7 @@ Analitik düşünme ve problem çözme becerilerine sahibim.
 Takım çalışmasına uyumlu ve öğrenmeye açık bir mühendis adayıyım.      
 
 
+
 <!--
 **Fidanbozaner/Fidanbozaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
